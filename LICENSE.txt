@@ -1,0 +1,4 @@
+Just about everything in here will be me keying in and/or tweaking examples as
+laid out in:
+
+Python Programming, Third Edition by Michael Dawson
