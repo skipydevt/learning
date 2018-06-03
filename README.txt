@@ -6,4 +6,4 @@ offer.
 
 simple code.
 
-simple reason for living.
+simple reason for it living.
